@@ -1,0 +1,18 @@
+name: game1
+description: "Local multiplayer mini games for 2-4 players on one phone: Snakes and Paint Fight."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
